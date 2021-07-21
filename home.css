@@ -27,7 +27,7 @@ h2 { color: #00ffea;
      font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 h3 { font-family: Georgia, 'Times New Roman', Times, serif;
-     color: rgb(70, 0, 0); }
+     color: #00ffea; }
 nav { font-weight: bold; 
 	  padding-top: .5em;
 	  padding-right: .5em;
@@ -41,7 +41,7 @@ main { padding-left: 2em;
 dt { color: #00ffea;
      font-weight: bold;
 }
-.exclusive { color: #00ffea;
+.exclusive { color: #fffb00;
           font-size: 1.2em;
 }
 #homehero { height: 300px;
